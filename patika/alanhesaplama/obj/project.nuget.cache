@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yH28NaK1kCM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gulte\\OneDrive\\Masaüstü\\patika\\alanhesaplama\\alan_hesaplama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gulte\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\gulte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\gulte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\gulte\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
